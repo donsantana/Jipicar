@@ -2,7 +2,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '9.0'
 use_frameworks!
-target "MovilClub" do
+target "Jipicar" do
     pod 'Socket.IO-Client-Swift'
     pod 'Canvas'
     pod 'AFNetworking'

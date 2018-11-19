@@ -1,0 +1,6 @@
+framework module Pods_Jipicar {
+  umbrella header "Pods-Jipicar-umbrella.h"
+
+  export *
+  module * { export * }
+}
